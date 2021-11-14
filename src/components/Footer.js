@@ -1,5 +1,4 @@
 import React from 'react';
-
 const footer = () => {
     return (
         <div>
@@ -27,8 +26,8 @@ const footer = () => {
     </section>
   </div>
   <div class="text-center p-3">
-    © 2020 Copyright:
-    <a class="text-white" href="https://mdbootstrap.com/">MDBootstrap.com</a>
+    © 2021 Copyright:
+    <a class="text-white" href="#">kabosi erik</a>
   </div>
 </footer>
   

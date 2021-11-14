@@ -1,6 +1,6 @@
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import '@fortawesome/fontawesome-free';
 import Navbar from './components/Navbar';
 import Header from './components/Header';
 import Scrollup  from './components/Scrollup';
